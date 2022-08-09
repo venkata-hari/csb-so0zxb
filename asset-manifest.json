@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://venkata-hari.github.io/csb-so0zxb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://venkata-hari.github.io/csb-so0zxb/static/js/main.b70e43f1.chunk.js",
+    "main.js.map": "https://venkata-hari.github.io/csb-so0zxb/static/js/main.b70e43f1.chunk.js.map",
+    "runtime-main.js": "https://venkata-hari.github.io/csb-so0zxb/static/js/runtime-main.ccd58eb9.js",
+    "runtime-main.js.map": "https://venkata-hari.github.io/csb-so0zxb/static/js/runtime-main.ccd58eb9.js.map",
+    "static/js/2.b0504009.chunk.js": "https://venkata-hari.github.io/csb-so0zxb/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://venkata-hari.github.io/csb-so0zxb/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://venkata-hari.github.io/csb-so0zxb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://venkata-hari.github.io/csb-so0zxb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://venkata-hari.github.io/csb-so0zxb/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd58eb9.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b70e43f1.chunk.js"
+  ]
+}
